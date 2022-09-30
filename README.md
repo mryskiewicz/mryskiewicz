@@ -6,7 +6,7 @@ I am PhD in jurisprudence student at the University of Warsaw -- where I am work
 
 I work as a Data Scientist and pursue my career in data science and machine learning.
 
-Check [[ryskiewi.cz]] for more information.
+Check [ryskiewi.cz] for more information.
 
 Feel free to write to me:
 miryskiewicz [at] gmail.com
